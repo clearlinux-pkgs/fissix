@@ -1,5 +1,5 @@
 PKG_NAME := fissix
-URL = https://files.pythonhosted.org/packages/45/0f/d2d0a61c5b3bb1a2d5e677996ee12f3a3505551f70c3bad17cc1a2a631bb/fissix-21.6.6.tar.gz
+URL = https://files.pythonhosted.org/packages/94/cb/fe0df0273fd88dbaa4b0c6ed6b7e3e1dc5348f9595622b81da32499197bb/fissix-21.11.13.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
